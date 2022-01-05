@@ -2,7 +2,7 @@
 ## Hi there! I'm Anthony Psyk 👋
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2196f3)](https://www.linkedin.com/in/ajpsyk/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1E6091)](https://www.linkedin.com/in/ajpsyk/)
 
 - 📍 Based in Las Vegas, NV
 - 😄 Pronouns: he/him/his
