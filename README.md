@@ -1,4 +1,4 @@
-![aj_github_banner_9](https://user-images.githubusercontent.com/89106811/148136825-06060a00-f4af-49b8-a927-0348c0d0f156.png)
+![github_banner_2](https://user-images.githubusercontent.com/89106811/148146181-01601185-c3f7-4e1a-8b90-3447c1de7424.png)
 ## Hi there! I'm Anthony Psyk 👋
 
 
