@@ -1,8 +1,13 @@
 ![github_banner_2](https://user-images.githubusercontent.com/89106811/148146181-01601185-c3f7-4e1a-8b90-3447c1de7424.png)
-## Hi there! I'm Anthony Psyk 👋
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=76C893)](https://www.linkedin.com/in/ajpsyk/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=52B69A)](https://www.linkedin.com/in/ajpsyk/)
+<br>
+Hello! I'm Anthony.
+
+I am a Software Engineer with experience building websites and web applications. I have a passion for challenging projects that improve people's lives.
+
+I specialize in JavaScript and have experience working with technologies like React and Node.js. I also have experience working with PostgreSQL and Express. Take a look at my work or get in touch!
 
 - 📍 Based in Las Vegas, NV
 - 😄 Pronouns: he/him/his
