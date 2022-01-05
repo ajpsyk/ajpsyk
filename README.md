@@ -12,7 +12,7 @@ I specialize in JavaScript and have experience working with technologies like Re
 - 📍 Based in Las Vegas, NV
 - 😄 Pronouns: he/him/his
 
-### Languages & Tools
+## Technical Skills
 **Front End**<br>
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=1E6091)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1E6091)
