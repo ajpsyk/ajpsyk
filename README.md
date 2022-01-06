@@ -1,7 +1,6 @@
 ![github_banner_2](https://user-images.githubusercontent.com/89106811/148146181-01601185-c3f7-4e1a-8b90-3447c1de7424.png)
 
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=52B69A)](https://www.linkedin.com/in/ajpsyk/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=007EC6)](https://www.linkedin.com/in/ajpsyk/)
 <br><br>
 **Hello! I'm Anthony.**
 <br>
