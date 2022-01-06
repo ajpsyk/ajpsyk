@@ -22,7 +22,7 @@ I specialize in JavaScript and have experience working with technologies like Re
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=1E6091)
 ![](https://img.shields.io/badge/Code-Axios-informational?style=flat&logo=Axios&logoColor=white&color=1E6091)
 ![](https://img.shields.io/badge/Code-Vite-informational?style=flat&logo=Vite&logoColor=white&color=1E6091)
-<br>
+<br><br>
 **Back End**<br>
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=168AAD)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=168AAD)
@@ -32,7 +32,7 @@ I specialize in JavaScript and have experience working with technologies like Re
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=168AAD)
 ![](https://img.shields.io/badge/Code-Sequelize-informational?style=flat&logo=Sequelize&logoColor=white&color=168AAD)
 ![](https://img.shields.io/badge/Code-RESTfulAPI-informational?style=flat&logo=RESTfulAPI&logoColor=white&color=168AAD)
-<br>
+<br><br>
 **Testing/Deployment**<br>
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=34A0A4)
 ![](https://img.shields.io/badge/Test-AWSEC2-informational?style=flat&logo=AWSEC2&logoColor=white&color=34A0A4)
@@ -40,7 +40,7 @@ I specialize in JavaScript and have experience working with technologies like Re
 ![](https://img.shields.io/badge/Test-NewRelic-informational?style=flat&logo=NewRelic&logoColor=white&color=34A0A4)
 ![](https://img.shields.io/badge/Test-K6-informational?style=flat&logo=K6&logoColor=white&color=34A0A4)
 ![](https://img.shields.io/badge/Test-TDD-informational?style=flat&logo=TDD&logoColor=white&color=34A0A4)
-<br>
+<br><br>
 **Developer Tools**<br>
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=52B69A)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=52B69A)
