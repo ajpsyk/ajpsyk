@@ -2,15 +2,16 @@
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=52B69A)](https://www.linkedin.com/in/ajpsyk/)
+<br><br>
+**Hello! I'm Anthony.**
 <br>
-Hello! I'm Anthony.
-
 I am a Software Engineer with experience building websites and web applications. I have a passion for challenging projects that improve people's lives.
-
+<br>
 I specialize in JavaScript and have experience working with technologies like React and Node.js. I also have experience working with PostgreSQL and Express. Take a look at my work or get in touch!
-
+<br>
 - 📍 Based in Las Vegas, NV
 - 😄 Pronouns: he/him/his
+
 
 ## Technical Skills
 **Front End**<br>
