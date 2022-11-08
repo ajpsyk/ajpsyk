@@ -9,7 +9,7 @@ I am a Software Engineer with experience building websites and web applications.
 <br>
 I specialize in JavaScript and have experience working with technologies like React and Node.js. I also have experience working with PostgreSQL and Express. Take a look at my work or get in touch!
 <br>
-- 📍 Based in Las Vegas, NV
+- 📍 Based in Seattle, WA
 - 😄 Pronouns: he/him/his
 
 ## Technical Skills
