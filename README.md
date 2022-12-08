@@ -1,16 +1,16 @@
 ![github banner (3)](https://user-images.githubusercontent.com/89106811/151314938-2151cb9b-ec12-4139-8cb3-f756e0413d79.png)
 
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=007EC6)](https://www.linkedin.com/in/ajpsyk/)
 <br><br>
 **Hello! I'm Anthony.**
-<br>
+<br><br>
 I am a Software Engineer with experience building websites and web applications. I have a passion for challenging projects that improve people's lives.
-<br>
-I specialize in JavaScript and have experience working with technologies like React and Node.js. I also have experience working with PostgreSQL and Express. Take a look at my work or get in touch!
-<br>
+<br><br>
+I specialize in **JavaScript** and have experience working with technologies like **React** and **Node.js**. I also have experience working with PostgreSQL and Express. Take a look at my work and get in touch!
+<br><br>
 - 📍 Based in Seattle, WA
 - 😄 Pronouns: he/him/his
+<br>
 
 ## Technical Skills
 **Front End**<br>
@@ -47,4 +47,8 @@ src="https://camo.githubusercontent.com/6c50eb6f911b1bcb4c0b790fb5e908bf896c5256
 <img src="https://camo.githubusercontent.com/6cf9abe9d706421df40ff4feff208a5728df2b77f9eb21f24d09df00a0d69203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="typescipt" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="java" data-canonical-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/63350538fde994bc287ccd4908809301e157980e6564bf78d2c5cec22c0a5914/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="docker" data-canonical-src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;">
+<br><br>
+## GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajpsyk)](https://github.com/ajpsyk/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajpsyk&layout=compact)](https://github.com/ajpsyk/github-readme-stats)
