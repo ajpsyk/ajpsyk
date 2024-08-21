@@ -36,6 +36,5 @@ I am a Software Engineer with experience building web applications. I am passion
 - Jira, Trello, Slack, Microsoft Teams
 
 ## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajpsyk)](https://github.com/ajpsyk/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajpsyk&layout=compact)](https://github.com/ajpsyk/github-readme-stats)
