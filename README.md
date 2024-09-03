@@ -30,7 +30,7 @@ I am a Software Engineer with experience building web applications. I am passion
 - HTML, CSS, Bootstrap
 
 **Cloud Platforms**<br>
-- AWS
+- AWS, Azure
 
 **Collaboration**<br>
 - Jira, Trello, Slack, Microsoft Teams
