@@ -4,7 +4,7 @@
 <br><br>
 **Hello! I'm Anthony.**
 <br><br>
-I am a Software Engineer with experience building web applications. I am passionate about challenging projects that improve people's lives. Take a look at my work and get in touch!
+I am a Software Engineer with experience building web applications. I am passionate about challenging projects and leveling up my skillset. Take a look at my work and get in touch!
 <br><br>
 - 📍 Based in Seattle, WA
 - 😄 Pronouns: he/him/his
@@ -12,7 +12,7 @@ I am a Software Engineer with experience building web applications. I am passion
 
 ## Technical Skills
 **Languages**<br>
-- Java, Python, JavaScript, C++, Typescript
+- Java, Python, JavaScript
 
 **Frameworks**<br>
 - React, Express
@@ -21,19 +21,16 @@ I am a Software Engineer with experience building web applications. I am passion
 - SQL, MySQL, NoSQL, PostgreSQL, MongoDB
 
 **Developer Tools**<br>
-- Git, npm
+- Git, NPM
 
 **Testing**<br>
-- Pytest for Python, JUnit for Java, Jest, Mocha, and Chai for JavaScript
+- Pytest, JUnit, Jest, Mocha, and Chai
 
 **Web Technologies**<br>
 - HTML, CSS, Bootstrap
 
 **Cloud Platforms**<br>
 - AWS, Azure
-
-**Collaboration**<br>
-- Jira, Trello, Slack, Microsoft Teams
 
 ## GitHub Stats
 
